@@ -1,0 +1,9 @@
+robo/BetaRobot.class
+robo/AbstractRobot.class
+main/Application.class
+robo/RobotFactory.class
+interfaces/HasBatteryInterface.class
+interfaces/Moveable2DInterface.class
+robo/AlphaRobot.class
+robo/CharlieRobot.class
+interfaces/Has2DCoordinatesInterface.class
